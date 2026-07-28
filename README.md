@@ -15,7 +15,9 @@
 <h3 align="center">Languages and frameworks I use :sunglasses:</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" /><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="35" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="35" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,tailwind,postgres,nodejs,figma,supabase" />
+  </a>
 </p>
 
 ## ⚡ Profile Summary
@@ -31,6 +33,6 @@
 ## 🙋🏻 contacts
 
 <p align="center">
-	<a href="mailto:eroldanvahos@gmail.com"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" title='Gmail' alt="Gmail"/></a>
-	<a href="https://www.instagram.com/roldanx_._/"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" title='Instagram' alt="Instagram"/></a>
+  <a href="mailto:eroldanvahos@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.instagram.com/roldanx_._/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
