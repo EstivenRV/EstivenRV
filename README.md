@@ -30,7 +30,7 @@
 
 <p align="center"><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" height="150"/></p>
 
-<h3 align="center">🙋🏻 contacts</h3>
+<h2 align="left">🙋🏻 contacts</h2>
 
 <p align="center">
   <a href="mailto:eroldanvahos@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> 
