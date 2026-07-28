@@ -30,8 +30,9 @@
 
 <p align="center"><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" height="150"/></p>
 
-## 🙋🏻 contacts
+<h3 align="center">🙋🏻 contacts</h3>
 
 <p align="center">
-  <a href="mailto:eroldanvahos@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://www.instagram.com/roldanx_._/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="mailto:eroldanvahos@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> 
+  <a href="https://www.instagram.com/roldanx_._/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
