@@ -33,6 +33,5 @@
 ## 🙋🏻 contacts
 
 <p align="center">
-  <a href="mailto:eroldanvahos@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.instagram.com/roldanx_._/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="mailto:eroldanvahos@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://www.instagram.com/roldanx_._/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
