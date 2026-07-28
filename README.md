@@ -32,19 +32,12 @@
 
 <br>
 
-
-## 🔥 Streak Stats & Languages
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EstivenRV&theme=algolia"  /></p>
-<!-- <p align="center"><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" height="150"/></p> -->
-
-<br>
-
 ## ⚡ Profile Summary
-<!-- <p align="center">
+<p align="center">
 <a href="https://github.com/EstivenRV"><img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EstivenRV&theme=tokyonight&hide_border=true"  width="520" alt="temitope" /></a>
 <p/>
 
-<hr/> -->
+<hr/> 
 <p align="center"><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" height="150"/></p>
 
 
