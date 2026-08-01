@@ -7,7 +7,7 @@
 <hr/>
 
 <h4 align="center">
-💻 I'm a Full Stack Developer in train from colombia, I am passionate about design, coding, and web technologies. 
+💻 I'm a Full Stack Junior from colombia, I am passionate about design, coding, and web technologies. 
 </h4>
 
 <hr/>
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,tailwind,postgres,nodejs,figma,supabase" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,tailwind,postgres,nodejs,figma,supabase,vite,fastapi,github,git,vercel,docker,mysql,mongodb,sass" />
   </a>
 </p>
 
