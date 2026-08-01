@@ -29,20 +29,3 @@
 <hr/>
 
 <p align="center"><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" height="150"/></p>
-
-<h2>🙋🏻 contacts</h2>
-
-<table align="center" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td align="center" style="border: none; padding: 10px;">
-      <a href="mailto:eroldanvahos@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" />
-      </a>
-    </td>
-    <td align="center" style="border: none; padding: 10px;">
-      <a href="https://www.instagram.com/roldanx_._/">
-        <img src="https://skillicons.dev/icons?i=instagram" />
-      </a>
-    </td>
-  </tr>
-</table>
