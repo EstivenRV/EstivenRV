@@ -21,11 +21,4 @@
 </p>
 
 ## ⚡ Profile Summary
-
-<p align="center">
-<a href="https://github.com/EstivenRV"><img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EstivenRV&theme=tokyonight&hide_border=true" width="520" alt="temitope" /></a>
-</p>
-
-<hr/>
-
 <p align="center"><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" height="150"/></p>
